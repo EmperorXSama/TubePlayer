@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TubePlayer", "TubePlayer\TubePlayer.csproj", "{2B4829FB-5B88-4863-BB03-B5E2D5963B15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maui.App.Frameworks", "Maui.App.Frameworks\Maui.App.Frameworks.csproj", "{28FF33B6-765E-4255-BD98-45A43829780A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B4829FB-5B88-4863-BB03-B5E2D5963B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4829FB-5B88-4863-BB03-B5E2D5963B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4829FB-5B88-4863-BB03-B5E2D5963B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4829FB-5B88-4863-BB03-B5E2D5963B15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28FF33B6-765E-4255-BD98-45A43829780A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28FF33B6-765E-4255-BD98-45A43829780A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28FF33B6-765E-4255-BD98-45A43829780A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28FF33B6-765E-4255-BD98-45A43829780A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
